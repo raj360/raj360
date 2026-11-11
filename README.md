@@ -7,7 +7,7 @@ I build hiring products, multi-tenant SaaS, and ops tools end to end.
 - [Joblentra](https://joblentra.com): verified-employer jobs board and hiring workspace (ATS, talent search, regional pricing)
 
 **Recent role**
-- Bondex / WxRK (ended Sep 2026): improved the hiring ecosystem across Bondex, Web3.Career, and Remote3, then helped rebuild core backend pieces for the WxRK product direction
+- Bondex / WxRK : improved the hiring ecosystem across Bondex, Web3.Career, and Remote3, then helped rebuild core backend pieces for the WxRK product direction
 
 **Focus**
 - Auth and SSO (OIDC), jobs platforms, multi-tenant APIs
